@@ -1,0 +1,14 @@
+{
+  "name": "codetest",
+  "version": "1.0.0",
+  "description": "ZipcodeDescriptor",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Alex Maxwell",
+  "license": "ISC",
+  "dependencies": {
+    "node-rest-client": "^3.1.0"
+  }
+}
